@@ -9,6 +9,7 @@ I am currently a Holberton Student, I never give up for that reason I always wan
 - ⚡ Fun fact: my biggest passion in soccer
 
 ## 🧰 Languages and Tools:
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -25,6 +26,8 @@ I am currently a Holberton Student, I never give up for that reason I always wan
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jfprado11)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jfprado11&show_icons=true&hide_border=false&&count_private=false&include_all_commits=true" />
