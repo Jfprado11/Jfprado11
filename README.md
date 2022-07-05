@@ -4,7 +4,7 @@
 I am currently a Holberton Student, I never give up for that reason I always want to learn more...
 
 - 🔭 I’m currently studying on Holberton School
-- 🌱 I’m currently learning Python / JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: jfpc11@misena.edu.co
 - ⚡ Fun fact: my biggest passion in soccer
 
