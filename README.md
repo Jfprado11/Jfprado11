@@ -6,7 +6,7 @@ I am currently a product developer at Imagine CX, I never give up for that reaso
 - 🔭 I’m currently studying on Holberton School
 - 🌱 I’m currently learning React
 - 📫 How to reach me: jfpc11@misena.edu.co
-- ⚡ Fun fact: my biggest passion in soccer
+- ⚡ Fun fact: my biggest passion is Fotball
 
 ## 🧰 Languages and Tools:
 <br />
