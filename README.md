@@ -1,7 +1,7 @@
 # Hello there!! ![lighsaber](http://emojis.slackmojis.com/emojis/images/1450319458/135/x-wing.png) 
 
 
-I am currently a Holberton Student, I never give up for that reason I always want to learn more...
+I am currently a product developer at Imagine CX, I never give up for that reason I always want to learn more...
 
 - 🔭 I’m currently studying on Holberton School
 - 🌱 I’m currently learning React
