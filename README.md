@@ -3,9 +3,9 @@
 
 I am currently a product developer at Imagine CX, I never give up for that reason I always want to learn more...
 
-- 🔭 I’m currently studying on Holberton School
-- 🌱 I’m currently learning React
-- 📫 How to reach me: jfpc11@misena.edu.co
+- 🔭 I’m currently working at Imagine CX
+- 🌱 I’m currently learning Next JS
+- 📫 How to reach me: juanfeprado11@gmail.com
 - ⚡ Fun fact: my biggest passion is Fotball
 
 ## 🧰 Languages and Tools:
